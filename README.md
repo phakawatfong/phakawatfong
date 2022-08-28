@@ -5,5 +5,5 @@
 
 **Language**
 
-[![My Skills](https://skills.thijs.gg/icons?i=py,r,mysql)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=py,r,mysql,&theme=light)](https://skills.thijs.gg)
 
