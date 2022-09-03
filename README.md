@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Phakawat Fongchai
   - you can call me `KIDS` ! 👻
 - 👀 I’m interested in Data Engineering to create an impactful pipeline for data-workflow!
-- 🌱 I’m currently learning SQL, shell script, Python and other Data Analytic tools
+- 🌱 I’m currently learning SQL, shell script, Python and other tools 
 
 **Languages**
 
