@@ -3,7 +3,7 @@
 - 👀 I’m interested in Data Engineering to create an impactful pipeline for data-workflow!
 - 🌱 I’m currently learning SQL, shell script, Python and other Data Analytic tools
 
-**Language**
+**Languages**
 
 [![My Skills](https://skills.thijs.gg/icons?i=py,r,bash&theme=light)](https://skills.thijs.gg)
 
