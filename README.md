@@ -11,5 +11,6 @@
 
 [![My Skills](https://skills.thijs.gg/icons?i=mysql,mongodb,gcp&theme=light)](https://skills.thijs.gg)
 
-**Containerization & Orchestration**
-[![My Skills](https://skills.thijs.gg/icons?i=docker,airflow&theme=light)](https://skills.thijs.gg)
+**Containerization**
+
+[![My Skills](https://skills.thijs.gg/icons?i=docker&theme=light)](https://skills.thijs.gg)
